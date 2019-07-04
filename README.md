@@ -17,10 +17,10 @@ The software accepts photos of national ID cards captured using smart-phones or 
 # How to run
 1.Install all required libraries in the readme file then run the make file.   
 ```   
-pip3 install python-opencv   
+pip3 install opencv-python  
 pip3 install PyQt5   
 pip3 install matplotlib   
-pip3 install Pillow=4.3.0   
+pip3 install Pillow==4.3.0   
 pip3 install arabic-reshaper   
 pip3 install imutils   
 pip3 install scikit-image   
